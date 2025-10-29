@@ -10,7 +10,6 @@ This repo contains code that applies K-Means clustering to the **Penguins datase
 5. Visualize clusters and interpret insights.
 
 ## 🧰 Tools & Libraries
-- **Python 3.8+**
 - `pandas` – data manipulation  
 - `matplotlib` – visualization  
 - `scikit-learn` – clustering and preprocessing
